@@ -1,0 +1,31 @@
+site_author: 'Skribb11es'
+repo_url: https://github.com/DallasFormulaRacing/better-onboarding
+
+theme:
+  name: custommill
+  main_color: '#E97600'
+  toc_depth: 3
+
+
+extra:
+  version: 'v2.0.0'
+  
+site_name: DFR Software Onboarding
+
+nav:
+  - Home: home.md
+  - Resources:
+    - Resources: resources/resources.md
+    - New to CS/SE: resources/new-to-CS-or-SE.md
+    - Learning Python: resources/learning-Python.md
+    - Learning Git: resources/learning-Git.md
+    - Learning Docker: resources/learning-Docker.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.tabbed
+  - toc:
+      permalink: '#'
+
+plugins:
+  - search

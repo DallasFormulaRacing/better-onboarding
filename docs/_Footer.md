@@ -1,0 +1,1 @@
+Need help, or can't find an answer you're looking for? Feel free to ask in the [#software](https://discord.com/channels/747977872823550043/753049702001541200) of our [Discord](https://dallasformularacing.com/team/join-the-team) server!
