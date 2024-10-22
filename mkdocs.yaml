@@ -8,7 +8,7 @@ theme:
 
 
 extra:
-  version: 'v2.0.0'
+  version: 'v2.1.0'
   
 site_name: DFR Software Onboarding
 
@@ -19,6 +19,7 @@ nav:
     - New to CS/SE: resources/new-to-CS-or-SE.md
     - Learning Python: resources/learning-Python.md
     - Learning Git: resources/learning-Git.md
+    - Learning SQL: resources/learning-SQL.md
     - Learning Docker: resources/learning-Docker.md
 
 markdown_extensions:

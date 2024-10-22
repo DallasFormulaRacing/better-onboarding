@@ -12,7 +12,7 @@ num = random.random() # assigning a variable named "num" to the returned value o
 print(num) # prints the value of the "num" variable to the console.
 ```
 
-Because [Python](https://www.python.org/) is a high level language however, this means that it is for most people relatively easy to learn, and holds little nuance when compared to lower level languages like [C++](https://learn.microsoft.com/en-us/cpp/?view=msvc-170), or [Java](https://www.java.com/en/). Which also means that the learning experience is much more enjoyable, due to its simplicity, than other languages. (unless of course you're a masochist)
+Because [Python](https://www.python.org/) is a high level language, this means that it is, for most people, relatively easy to learn, and holds little nuance when compared to lower level languages like [C++](https://learn.microsoft.com/en-us/cpp/?view=msvc-170), or [Java](https://www.java.com/en/). Which also means that the learning experience is much more enjoyable, due to its simplicity, than other languages. (unless of course you're a masochist)
 
 ## Already know another language?
 
@@ -30,7 +30,7 @@ Brand new to Python or coding in general? No worries, below are some of the best
 
 |Name|Description|URL|
 |---|---|---|
-|freeCodeCamp.org|A public charity dedicated to making some of the best guides for learning all kinds of programming related topics.|[freecodecamp.org/news/tag/python/](https://www.freecodecamp.org/news/tag/python/)|
+|freeCodeCamp.org|A public charity dedicated to making some of the best guides for learning all kinds of programming related topics.|[freecodecamp.org/news/tag/python](https://www.freecodecamp.org/news/tag/python/)|
 |awesome-python|My personal favorite repo for more in depth learning about python and how to actually apply it in a more real world use case.|[github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)|
 |learn-python|A very well written and still decently maintained GitHub repo dedicated to being a "cheatsheet" for everything [Python](https://www.python.org/).|[github.com/trekhleb/learn-python](https://github.com/trekhleb/learn-python)|
 
@@ -39,14 +39,14 @@ Brand new to Python or coding in general? No worries, below are some of the best
 ---
 
 #### Python in 100 Seconds - Fireship
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x7X9w_GIm1s?si=OTP9Ntk4vWRVZnvq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x7X9w_GIm1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### Python for Beginners – Full Course - freeCodeCamp.org
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eWRfhZUzrAc?si=rvoYGh0AsWkWqbp-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eWRfhZUzrAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### Python RIGHT NOW!! (10 Part Series) - NetworkChuck 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=l5aeqpd7601vi555&amp;list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

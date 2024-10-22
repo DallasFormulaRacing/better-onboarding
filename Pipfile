@@ -7,6 +7,7 @@ name = "pypi"
 mkdocs = "*"
 pymdown-extensions = "*"
 mkdocs-exclude = "*"
+mkdocs-custommill = "*"
 
 [dev-packages]
 

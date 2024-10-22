@@ -8,7 +8,7 @@ GitHub on the other hand, unlike [Git](https://git-scm.com/) itself, is a platfo
 
 ## Where do I begin?
 
-Never use [Git](https://git-scm.com/)? Heck, you may have never even used [GitHub](https://github.com/), but that's all good! The goal of this short "lecture" on [Git](https://git-scm.com/)/[Github](https://github.com/) will hopefully give you everything you need to know to get up and running making and pushing your very first commits and pull requests!
+Never used [Git](https://git-scm.com/)? Heck, you may have never even used [GitHub](https://github.com/), but that's all good! The goal of this short "lecture" on [Git](https://git-scm.com/)/[Github](https://github.com/) will hopefully give you everything you need to know to get up and running making and pushing your very first commits and pull requests!
 
 ### Text Resources
 
@@ -21,19 +21,19 @@ Never use [Git](https://git-scm.com/)? Heck, you may have never even used [GitHu
 ### Video Resources
 
 #### Git Explained in 100 Seconds - Fireship
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hwP7WQkmECE?si=R_-iJS-Qd2pgX8Wl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hwP7WQkmECE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### Git It? How to use Git and Github - Fireship
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HkdAHXoRtos?si=YgaxfjvyBdkvu4vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HkdAHXoRtos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### GitHub Pull Request in 100 Seconds - Fireship
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8lGpZkjnkt4?si=PP9CmELI3BC-EAfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8lGpZkjnkt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### Git vs. GitHub: What's the difference? - IBM Technology
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wpISo9TNjfU?si=TfwvmnCIfl2CDJ-9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wpISo9TNjfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
