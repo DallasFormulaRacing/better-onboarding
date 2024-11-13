@@ -6,11 +6,20 @@ The most simple way to think of [Git](https://git-scm.com/) is as a "version man
 
 GitHub on the other hand, unlike [Git](https://git-scm.com/) itself, is a platform that allows us to host our repositories on the Internet! It's essentially just "more complicated" cloud storage, with some very useful tools for a [Git](https://git-scm.com/) based dev cycle. Along with this, [GitHub](https://github.com/), is in essence the "pioneer" of [Git](https://git-scm.com/) based collaboration, meaning that a **VERY LARGE** chunk of the world's developers reside on GitHub, and as such knowing how to use the platform can be vital to your career.
 
+## Table of contents
+
+- [Introduction](#introduction)
+    - [Table of Contents](#table-of-contents)
+    - [Where do I begin?](#where-do-i-begin)
+        - [Text Resources](#text-resources)
+        - [Video Resources](#video-resources)
+
+
 ## Where do I begin?
 
 Never used [Git](https://git-scm.com/)? Heck, you may have never even used [GitHub](https://github.com/), but that's all good! The goal of this short "lecture" on [Git](https://git-scm.com/)/[Github](https://github.com/) will hopefully give you everything you need to know to get up and running making and pushing your very first commits and pull requests!
 
-### Text Resources
+### Text resources
 
 |Name|Description|URL|
 |---|---|---|
@@ -18,7 +27,7 @@ Never used [Git](https://git-scm.com/)? Heck, you may have never even used [GitH
 |Learn Git Branching|Another visually interactive platform for learning `Git`. Like `OH MY GIT!` this is much more tailored towards beginners to `Git`, and makes the learning process much more enjoyable than mindlessly reading documentation. |[learngitbranching.js.org](https://learngitbranching.js.org/)|
 |Pro Git book|A textbook that contains anything and everything `Git`. You can purchase a physical copy, or use the publically available E-Book found on the same website that you will likely be downloading the `Git CLI` from, [git-scm.com](https://git-scm.com/).|[git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)|
 
-### Video Resources
+### Video resources
 
 #### Git Explained in 100 Seconds - Fireship
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hwP7WQkmECE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

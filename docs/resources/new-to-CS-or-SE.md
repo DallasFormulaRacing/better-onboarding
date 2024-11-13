@@ -5,15 +5,15 @@ Hey, seeing as you clicked this you presumably have little to no experience in t
 Here on the DFR Software team, very few people have any kind of background knowledge with most of the technologies that we utilize on a daily basis when they enter the club, and that's 100% normal. For most, any kind of formal education up until college lacks any form of "computer education," despite using them almost every day. So suffice to say, you're not alone, and hopefully with the help of this onboarding, and your own willingness to learn (this really is the most important thing you need), you'll be a contributing member of the team in no time!
 
 
-## Table of Contents
+## Table of contents
 
-- [New to CS/SE](#new-to-csse)
-      - [Table of Contents](#table-of-contents)
-      - [Before you get started](#before-you-get-started)
-      - [Getting started](#getting-started)
-          - [Choosing an IDE](#choosing-an-ide)
-          - [Downloading and Installing Python](#downloading-and-installing-python)
-      - [What now?](#what-now)
+- [Introduction](#introduction)
+    - [Table of Contents](#table-of-contents)
+    - [Before you get started](#before-you-get-started)
+    - [Getting started](#getting-started)
+        - [Choosing an IDE](#choosing-an-ide)
+        - [Downloading and Installing Python](#downloading-and-installing-python)
+    - [What now?](#what-now)
 
 
 ## Before you get started
@@ -22,6 +22,8 @@ When it comes to learning any language or technology, I always recommend that yo
 
 
 ## Getting started
+
+---
 
 ### Choosing an IDE
 
@@ -43,7 +45,7 @@ Something worth considering, is there is a **VAST** variety of IDEs, and not all
 
 My personal recommendation is [VS Code](https://code.visualstudio.com/) for it's versatility and how lightweight it is out of the box. On top of those factors it also has a **MASSIVE** plugin/extension community that likely has any and all means of solving any problem that you might run into while using [VS Code](https://code.visualstudio.com/), including also being one of the most customizable visually.
 
-### Downloading and Installing Python
+### Downloading and installing Python
 
 As most, if not all, of the projects within DFR are based on [Python](https://www.python.org/), having it on your system is a very important step.
 

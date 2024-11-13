@@ -6,7 +6,7 @@ Hey, welcome to the "renovated" onboarding for the [Dallas Formula Racing](https
     This wiki is currently a **WIP** project that does not reflect all of the resources or projects within DFR at this moment in time, and as such should not be treated as the be all and end all of information regarding our internal systems.
 
 
-# Table of Contents
+# Table of contents
 
 Although this TOC is still maintained, it is highly recommended that you use the sidebar to navigate through the onboarding process.
 
@@ -15,6 +15,7 @@ Although this TOC is still maintained, it is highly recommended that you use the
     * [New to CS/SE](resources/new-to-CS-or-SE.md) 
     * [Learning Python](resources/learning-Python.md)
     * [Learning Git/Github](resources/learning-Git.md)
+    * [Learning SQL](resources/learning-SQL.md)
     * [Learning Docker](resources/learning-Docker.md)
 
 

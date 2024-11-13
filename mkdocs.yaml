@@ -10,7 +10,7 @@ theme:
 extra:
   version: 'v2.1.0'
   
-site_name: DFR Software Onboarding
+site_name: DFR Software Wiki
 
 nav:
   - Home: home.md
@@ -21,6 +21,11 @@ nav:
     - Learning Git: resources/learning-Git.md
     - Learning SQL: resources/learning-SQL.md
     - Learning Docker: resources/learning-Docker.md
+  - Projects:
+    - Data API: projects/data-api.md
+  - About:
+    - About: about/about.md
+    - Style Guide: about/style-guide.md
 
 markdown_extensions:
   - admonition

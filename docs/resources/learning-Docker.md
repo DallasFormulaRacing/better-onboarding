@@ -16,11 +16,20 @@ In essence containerization is the ability for an application to be condensed in
 
 ---
 
+## Table of contents
+
+- [Introduction](#introduction)
+    - [Table of Contents](#table-of-contents)
+    - [Where do I begin?](#where-do-i-begin)
+        - [Text Resources](#text-resources)
+        - [Video Resources](#video-resources)
+
+
 ## Where do I begin?
 
 Many people come to DFR, and the workplace, having never used or even heard about [Docker](https://www.docker.com/), so don't think you're alone. [Docker](https://www.docker.com/) is a very unique concept for most, and the goal of the below resources is to help guide you into learning at the very least how to utilize [Docker](https://www.docker.com/) in your workflow. Then come time to deploy any applications that you might make while you are at DFR, you will know how to build your application for the [Docker](https://www.docker.com/) environment. 
 
-### Text Resources
+### Text resources
 
 !!! Info "Notice"
     Out of both of these resources, the [Docker 101 tutorial](https://www.docker.com/101-tutorial/) is easily the most important / useful. When learning [Docker](https://www.docker.com/) for the first time it is highly recommended that you cross reference the tutorial at least once.
@@ -31,7 +40,7 @@ Many people come to DFR, and the workplace, having never used or even heard abou
 |awesome-docker|Like `awesome-python`, this is a repo designed to educate you through all the in's and out's of [Docker](https://www.docker.com/) on a beginner to advanced level, and can be utilized by anyone regardless of their experience with [Docker](https://www.docker.com/).|[github.com/veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)|
 
 
-### Video Resources
+### Video resources
 
 #### Docker in 100 Seconds - Fireship
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gjnup-PuquQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
