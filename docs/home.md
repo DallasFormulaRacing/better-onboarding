@@ -17,6 +17,9 @@ Although this TOC is still maintained, it is highly recommended that you use the
     * [Learning Git/Github](resources/learning-Git.md)
     * [Learning SQL](resources/learning-SQL.md)
     * [Learning Docker](resources/learning-Docker.md)
+* [Projects](projects/projects.md)
+* [About](about/about.md)
+    * [Style Guide](about/style-guide.md)
 
 
 # Introduction

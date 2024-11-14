@@ -133,7 +133,7 @@ To declare an admonition, start a line with (!!!) followed by the type of admoni
 
 ```md
 !!! warning "This is a warning block"
-    Just some info!
+    Warning!
 ```
 
 !!! warning "This is a warning block"
