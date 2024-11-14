@@ -4,18 +4,6 @@ Hey, seeing as you clicked this you presumably have little to no experience in t
 
 Here on the DFR Software team, very few people have any kind of background knowledge with most of the technologies that we utilize on a daily basis when they enter the club, and that's 100% normal. For most, any kind of formal education up until college lacks any form of "computer education," despite using them almost every day. So suffice to say, you're not alone, and hopefully with the help of this onboarding, and your own willingness to learn (this really is the most important thing you need), you'll be a contributing member of the team in no time!
 
-
-## Table of contents
-
-- [Introduction](#introduction)
-    - [Table of Contents](#table-of-contents)
-    - [Before you get started](#before-you-get-started)
-    - [Getting started](#getting-started)
-        - [Choosing an IDE](#choosing-an-ide)
-        - [Downloading and Installing Python](#downloading-and-installing-python)
-    - [What now?](#what-now)
-
-
 ## Before you get started
 
 When it comes to learning any language or technology, I always recommend that you go ahead and give yourself an end goal of what you want to accomplish before starting anything. For example if you want to learn [Python](https://www.python.org/), then you could give yourself the goal of wanting to make your own local webserver. From that goal learning how to build it with your own research, or knowledge you carry from elsewhere, will allow you to learn how different parts of the [Python](https://www.python.org/) language interact, along with also actively learning how to problem solve. Instead of simply following a tutorial that tells you everything to do.
@@ -64,7 +52,6 @@ Once you have selected a version, find the installer for your specific operating
 Again assuming you are on a Windows operating system, open the installer with administrative permissions, and once open make sure to tick the `Add python.exe to PATH` check box at the bottom of the installer before clicking "Install Now".
 
 After the installer completes, you can check if you have [Python](https://www.python.org/) available by opening your terminal of choice and typing the command `python --version`, at which point you should see the console display a string of text that states your installed [Python](https://www.python.org/) version (If on Windows you can open your terminal by pressing your Windows key + R, then within the box that appears typing `cmd` and clicking `OK`.)
-
 
 ## What now?
 

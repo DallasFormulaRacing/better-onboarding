@@ -14,16 +14,6 @@ print(num) # prints the value of the "num" variable to the console.
 
 Because [Python](https://www.python.org/) is a high level language, this means that it is, for most people, relatively easy to learn, and holds little nuance when compared to lower level languages like [C++](https://learn.microsoft.com/en-us/cpp/?view=msvc-170), or [Java](https://www.java.com/en/). Which also means that the learning experience is much more enjoyable, due to its simplicity, than other languages. (unless of course you're a masochist)
 
-## Table of contents
-
-- [Introduction](#introduction)
-    - [Table of Contents](#table-of-contents)
-    - [Already know another language?](#already-know-another-language)
-    - [Where do I begin?](#where-do-i-begin)
-        - [Text Resources](#text-resources)
-        - [Video Resources](#video-resources)
-
-
 ## Already know another language?
 
 If you are already familiar with another language and want to translate your skills over to Python, it should be relatively easy! Go ahead and check out [Learn X in Y minutes' python write-up](https://learnxinyminutes.com/docs/python/) for the most straight forward examples of proper Python syntax.

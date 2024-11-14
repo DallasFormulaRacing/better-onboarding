@@ -4,16 +4,6 @@ SQL (Structured Query Language) is a very powerful tool in the modern age, and h
 
 Like [Python](https://www.python.org/), SQL is a high level "language" that uses a human readable format for its syntax structure, and as such, it is a relatively easy language to learn. 
 
-## Table of contents
-
-- [Introduction](#introduction)
-    - [Table of Contents](#table-of-contents)
-    - [Example SQL Query](#example-sql-query)
-    - [Where do I begin?](#where-do-i-begin)
-        - [Text Resources](#text-resources)
-        - [Video Resources](#video-resources)
-
-
 ## Example SQL query
 
 ```SQL

@@ -6,15 +6,6 @@ The most simple way to think of [Git](https://git-scm.com/) is as a "version man
 
 GitHub on the other hand, unlike [Git](https://git-scm.com/) itself, is a platform that allows us to host our repositories on the Internet! It's essentially just "more complicated" cloud storage, with some very useful tools for a [Git](https://git-scm.com/) based dev cycle. Along with this, [GitHub](https://github.com/), is in essence the "pioneer" of [Git](https://git-scm.com/) based collaboration, meaning that a **VERY LARGE** chunk of the world's developers reside on GitHub, and as such knowing how to use the platform can be vital to your career.
 
-## Table of contents
-
-- [Introduction](#introduction)
-    - [Table of Contents](#table-of-contents)
-    - [Where do I begin?](#where-do-i-begin)
-        - [Text Resources](#text-resources)
-        - [Video Resources](#video-resources)
-
-
 ## Where do I begin?
 
 Never used [Git](https://git-scm.com/)? Heck, you may have never even used [GitHub](https://github.com/), but that's all good! The goal of this short "lecture" on [Git](https://git-scm.com/)/[Github](https://github.com/) will hopefully give you everything you need to know to get up and running making and pushing your very first commits and pull requests!
