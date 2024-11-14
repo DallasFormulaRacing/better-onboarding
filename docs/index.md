@@ -10,7 +10,7 @@ Hey, welcome to the "renovated" onboarding for the [Dallas Formula Racing](https
 
 Although this TOC is still maintained, it is highly recommended that you use the sidebar to navigate through the onboarding process.
 
-* [Home](home.md)
+* [Home](index.md)
 * [Resources](resources/resources.md)
     * [New to CS/SE](resources/new-to-CS-or-SE.md) 
     * [Learning Python](resources/learning-Python.md)
