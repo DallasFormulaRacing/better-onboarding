@@ -18,11 +18,11 @@ All section titles should use [Title Case](https://apastyle.apa.org/style-gramma
 # This is the Title of a Document
 ```
 
-[Sentence case](http://grammar.about.com/od/rs/g/Sentence-Case.htm) should be used all for headings. In essence, only capitalize the first word; other words in the sentence are only capitalized if they would normally be in a sentence. (Things like names, places, etc. just follow general writing guidelines. This does NOT MEAN use punctuation, unless specifically required.).
+[Sentence case](http://grammar.about.com/od/rs/g/Sentence-Case.htm) should be used all for headings. In essence, only capitalize the first word; other words in the sentence are only capitalized if they would normally be in a sentence. (Things like names, places, and so on, just follow general writing guidelines. This does NOT MEAN use punctuation, unless specifically required.).
 
-When making headers, make sure to nest your headings for related topics. For markdown based documentation this is done by using increasing numbers of `#` followed by the heading's text. Each "major" section (such as a list of classes, functions, how to use your code, etc.) should all be defined by a `##` header. Single `#` headers are reserved for titles only, and in order to keep our documentation neat and presentable, any major sections should be documented by the usage of `##`
+When making headers, make sure to nest your headings for related topics. For markdown based documentation this is done by using increasing numbers of `#` followed by the heading's text. Each "major" section (such as a list of classes, functions, how to use your code, and so on.) should all be defined by a `##` header. Single `#` headers are reserved for titles only, and in order to keep our documentation neat and presentable, any major sections should be documented by the usage of `##`
 
-If you haven't noticed already, the sidebar of our Wiki lists all the important headings in order of how they appear within their respective Markdown files. Each of the subsections that are displayed underneath each major section, such as [New to CS/SE](resources/new-to-CS-or-SE.md), there are the 
+If you haven't noticed already, the sidebar of our Wiki lists all the important headings in order of how they appear within their respective Markdown files. Each of the subsections that are displayed underneath each major section, such as [New to CS/SE](../resources/new-to-CS-or-SE.md), there are the 
 
 **Example header hierarchy**
 ```md
@@ -56,7 +56,7 @@ If you haven't noticed already, the sidebar of our Wiki lists all the important 
 
 When you have a header right below another header, you should include a section break using a [horizontal rule](https://www.markdownguide.org/basic-syntax/#horizontal-rules) (---). As the section below is an example of this, without the inclusion of a triple dash there is no clear split between the headings besides the slight font size change, where as with a triple dash there is a much more evident break between the two headings.
 
-This is **ONLY** required if there is **NO** content between the headings, eg. back to back headings.
+This is **ONLY** required if there is **NO** content between the headings, for example; back to back headings, as detailed below.
 
 ```md
 
@@ -76,7 +76,7 @@ This is **ONLY** required if there is **NO** content between the headings, eg. b
 All filenames, filepaths, variables, literals, and endpoints, should be enclosed within [backticks](https://www.devx.com/terms/backtick/). In Markdown, this allows you to render anything between the two backticks inline and with fixed-pitch font. This is incredibly useful for anything code related where readability is imperative. Below is a list of proper usages of each of these requirements.
 
 * File names and directories (file paths); for example `main.py` or `app/main.py`.
-* Any code elements when used inline, such as object names, function calls, etc; for example `variable = None` or `app.main()`.
+* Any code elements when used inline, such as object names, function calls, and so on; for example `variable = None` or `app.main()`.
 * URLs and endpoints, unless they are not code critical, such as citing a source or external site for additional information within your docs; for example `http://127.0.0.1:8000` or `home/about`.
 
 ### Code samples
@@ -147,3 +147,30 @@ To declare an admonition, start a line with (!!!) followed by the type of admoni
 !!! error "This is an error block"
     Error!
 
+## Spelling, grammar, and usage
+
+Use American spelling and grammar: "behavior" instead of "behaviour," "color" instead of "colour," and so on.
+
+Collective nouns, such as organizations, are singular, not plural:
+
+* **CORRECT**: DFR is a club at UT Dallas (standard American usage).
+* **INCORRECT**: DFR are a club at UT Dallas (standard British usage).
+
+In lists of three or more items, use the [Oxford comma](https://www.grammarly.com/blog/punctuation-capitalization/what-is-the-oxford-comma/).
+
+Do not use Latin abbreviations, which may not be understood by all readers. Instead use the English equivalent:
+
+* Instead of "i.e." use "that is."
+* Instead of "e.g." use "for example."
+* Instead of "etc" use "and so on."
+
+Punctuation should be put **inside** quotation marks when applicable. For example:
+
+```txt
+"Hello," "hi," and "greetings" are all proper ways to greet someone.
+```
+
+However, there is an exception to the above rule. In the event that you are declaring a literal within quotations, or if the meaning would otherwise be unclear, then you are able to put the comma outside of the quotation mark. For example:
+
+```txt
+At the prompt enter "Y", then press Enter on your keyboard.
