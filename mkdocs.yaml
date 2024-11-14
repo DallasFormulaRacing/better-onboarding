@@ -5,6 +5,10 @@ site_author: William Davis
 site_description: >-
   The home of anything and everything software related for Dallas Formula Racing.
 
+# MkDocs build configuration
+remote_branch: main
+remote_name: origin
+
 # Repository
 repo_name: DallasFormulaRacing/better-onboarding
 repo_url: https://github.com/DallasFormulaRacing/better-onboarding
