@@ -1,26 +1,29 @@
 # Your first project
 
-Now that you've got a general understanding of how to use [Git](https://git-scm.com/) and [Python](https://www.python.org/), it's time we get started with your first project! This a super simple data visualization project that will test some basic skills using [Python](https://www.python.org/) packages and your general coding knowledge.
+This year we're trying something entirely new, and no coding will be required, though it may score you some extra points.
 
-## Getting started
+You have two options for the onboarding project:
 
-- [ ] 1. Install [Python](https://www.python.org/) and a code editor of your choice (we recommend [VS Code](https://code.visualstudio.com/)).
-- [ ] 2. Create a new [GitHub](https://github.com/) repository under your personal account and clone it to your local machine.
-- [ ] 3. Install the [Python](https://www.python.org/) packages `pandas` and (`plotly` or `matplotlib`).
-- [ ] 4. Download <a href="../../assets/can_data.csv" download="can_data.csv">this CSV</a> to your local machine and place it in the project folder you made.
+---
 
-## The project
+## Option One
 
-There are 5 main tasks that you will need to complete for this project, which are as follows:
+If you have an idea for a cool project that you think would be a good fit for the team, please describe what it is, how you would solve the problem. Include any relevant materials, research, ideas, references, or examples where a similar idea has been implemented. We are looking for a well thought out plan that demonstrates your ability to think critically and solve a problem when presented with one.
 
-- [ ] 1. Load the CSV file into a `pandas` DataFrame and see what you're working with.
-- [ ] 2. Clean the data in some meaningful way.
-- [ ] 3. Derive some insight from the data, either a new value, or some sort of statistic that can be visualized.
-- [ ] 4. Create at least 2 different types of graphs (e.g., bar chart, line graph, scatter plot, etc.) to visualize what you came up with.
-- [ ] 5. Add appropriate titles and labels to your graphs for clarity.
-- [ ] 6. Create a readme file that explains your code, what conclusions you made, and embed your graphs. (Hint: You can save your graphs as images and then embed them in markdown using `![alt text](image_path)`)
+## Option Two
 
-!!! WARNING "BEFORE SUBMITTING"
-    Make sure that all code is committed to your GitHub repository and that your code is clear and concise. If you are missing any elements from your project upon time of review you will not be considered for the team and will have to reapply later.
+If you are unable to come up with a specific project idea, please explain how you would personally approach the problem of transporting thousands of live streamed records off of an active racecar. If you paid attention during kickoff this should be a breeze, though we are looking for a carefully thought out implementation, that requires step by step reasoning, and and obvious understanding of the problem at hand.
 
-Once you have completed the above, fill out the form [here](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=HR0ojU2c90uxbgMtFd6fbCJ71aRdCa9OoDfceEmQqqJUM0YzVzNPMjdBRVNPVkZaNTFSMFhPVVNJSi4u) and we will go over your work. If all looks good, then welcome to the team!
+---
+
+## AI Policy
+
+Given that AI is being evermore used in the workplace, and in general, we are for the first time allowing it's usage on the onboarding project. However, we request that if you do utilize AI as part of your answer, or for it's totality, that you explain why you did so, what model you used, and what you used it for. We are obviously preferential to a fully human solution that proves that you are capable of solving problems on the fly, but we understand that AI is a perfectly valid tool to be utilized for this kind of work.
+
+---
+
+## Submission
+
+Once you are done, please visit [this URL](https://forms.cloud.microsoft/r/5vXsYkE1pZ), and login with your UTD account to submit your project. You will be asked some basic preferential questions, and then will submit your solution. Formatting is up to you, but we do request that it is easily readable whatever layout you want to go with.
+
+Submission Link: [https://forms.cloud.microsoft/r/5vXsYkE1pZ](https://forms.cloud.microsoft/r/5vXsYkE1pZ)
